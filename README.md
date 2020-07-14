@@ -11,11 +11,10 @@ For server:
  Server should be up and running
  
  For client:
- 1. Take pull of the project.
-2. open client folder in another window of your IDE.
-3. run npm install
-4. hit npm start.
-5. enter http://localhost:3000 in your browser
+1. open client folder in another window of your IDE.
+2. run npm install
+3. hit npm start.
+4. enter http://localhost:3000 in your browser
  Client should be up and running
  
  
