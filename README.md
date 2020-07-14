@@ -14,7 +14,7 @@ For server:
 1. open client folder in another window of your IDE.
 2. run npm install
 3. hit npm start.
-4. enter http://localhost:3000 in your browser
+4. enter http://localhost:3000 in your browser.
  Client should be up and running
  
  
